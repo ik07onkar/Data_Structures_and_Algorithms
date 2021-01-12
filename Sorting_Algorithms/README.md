@@ -46,3 +46,14 @@ key values (kind of hashing). Then doing some arithmetic to calculate the positi
 
 ### Space Complexity
 * Auxiliary Space: O(n+k)
+
+## Radix Sort
+The idea of Radix Sort is to do digit by digit sort starting from least significant digit to most significant digit.\
+Radix sort uses counting sort as a subroutine to sort.
+
+### Time Complexity
+* Worst Case: O(n * k) where n is the number of elements in input array and k is the number of bits required to represent largest element in the array
+* Best Case: O(n+k) 
+
+### Space Complexity
+* Auxiliary Space: O(n+k)
