@@ -53,7 +53,16 @@ Radix sort uses counting sort as a subroutine to sort.
 
 ### Time Complexity
 * Worst Case: O(n * k) where n is the number of elements in input array and k is the number of bits required to represent largest element in the array
-* Best Case: O(n+k) 
+* Best Case: O(n * k) 
 
 ### Space Complexity
 * Auxiliary Space: O(n+k)
+
+## Merge Sort
+Merge Sort is a Divide and Conquer algorithm.
+ 
+* Worst Case: O(nlog(n))
+* Best Case: O(nlog(n))
+
+### Space Complexity
+* Auxiliary Space: O(nlog(n))
