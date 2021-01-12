@@ -5,8 +5,8 @@ It contains all sorting algorithms and related problems.
 Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
 
 ### Time Complexity
-Worst Case O(n^2)\
-Best Case O(n)
+* Worst Case: O(n^2)
+* Best Case: O(n) - If array is already sorted.
 
 ### Space Complexity
-Auxiliary Space O(1)
+* Auxiliary Space: O(1)
