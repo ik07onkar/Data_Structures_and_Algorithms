@@ -37,8 +37,8 @@ sorted and an unsorted part. Values from the unsorted part are picked and placed
 * Auxiliary Space: O(1)
 
 ## Counting Sort
-Counting sort is a sorting technique based on keys between a specific range. It works by counting the number of objects having distinct key values (kind of hashing).\
-Then doing some arithmetic to calculate the position of each object in the output sequence.
+Counting sort is a sorting technique based on keys between a specific range. It works by counting the number of objects having distinct\
+key values (kind of hashing). Then doing some arithmetic to calculate the position of each object in the output sequence.
 
 ### Time Complexity
 * Worst Case: O(n+r)
