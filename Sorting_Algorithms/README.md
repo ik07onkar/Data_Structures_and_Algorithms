@@ -24,3 +24,14 @@ The algorithm maintains two subarrays in a given array.
 
 ### Space Complexity
 * Auxiliary Space: O(1)
+
+## Insertion Sort
+Insertion sort is a simple sorting algorithm that works similar to the way you sort playing cards in your hands.The array is virtually split into a\
+sorted and an unsorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.
+
+### Time Complexity
+* Worst Case: O(n^2)
+* Best Case: O(n) 
+
+### Space Complexity
+* Auxiliary Space: O(1)
