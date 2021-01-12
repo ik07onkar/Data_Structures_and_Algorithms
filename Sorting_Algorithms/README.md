@@ -12,7 +12,8 @@ Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping 
 * Auxiliary Space: O(1)
 
 ## Selection Sort
-The selection sort algorithm sorts an array by repeatedly finding the minimum element from unsorted part and putting it at the beginning.\The algorithm maintains two subarrays in a given array.
+The selection sort algorithm sorts an array by repeatedly finding the minimum element from unsorted part and putting it at the beginning.\
+The algorithm maintains two subarrays in a given array.
 
 * The subarray which is already sorted.
 * Remaining subarray which is unsorted.
