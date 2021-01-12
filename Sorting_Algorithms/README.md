@@ -41,8 +41,8 @@ Counting sort is a sorting technique based on keys between a specific range. It 
 key values (kind of hashing). Then doing some arithmetic to calculate the position of each object in the output sequence.
 
 ### Time Complexity
-* Worst Case: O(n+r)
-* Best Case: O(n+r) 
+* Worst Case: O(n+k) where n is the number of elements in input array and k is the range of input.
+* Best Case: O(n+k) 
 
 ### Space Complexity
-* Auxiliary Space: O(n+r)
+* Auxiliary Space: O(n+k)
